@@ -1,9 +1,16 @@
 # Semantic Search with Vector DB (ChromaDB)
 
 ## Overview
-* "Example of Semantic Search with Vector DBs" introduces the concept of semantic search using hardcoded strings.
+* The first folder <b>"Guide 1 - Intro"</b> introduces the concept of semantic search using hardcoded strings.
+    * MD file: Example-of-Semantic-Search-W-VectorDBs.md
+    * Code: Intro-Semantic-Search-ChromaDB.ipynb
 
-* "Example of Semantic Search with Vector DBs W Files" extends this by demonstrating how to read and embed actual text files from a folder, simulating a real-world application.
+<br />
+
+* The second folder <b>"Guide 2 - Using text files"</b> extends this by demonstrating how to read and embed actual text files from a folder, simulating a real-world application.
+    * MD file: Example-of-Sem-Search-W-VectorDBs-W-Files.md
+    * Code: Semantic-Search-ChromaDB_w_Files.ipynb
+    * text files located in `inputText/` folder
 
 ## Information
 
