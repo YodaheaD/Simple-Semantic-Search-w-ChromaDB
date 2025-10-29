@@ -1,0 +1,4 @@
+Artificial Intelligence (AI) refers to the simulation of human intelligence in machines. 
+It involves processes such as learning, reasoning, and self-correction. 
+Modern AI applications include natural language processing, image recognition, and autonomous vehicles. 
+Machine learning, a subset of AI, enables computers to learn patterns from data without explicit programming.
