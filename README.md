@@ -2,16 +2,19 @@
 
 ## Overview
 * The first folder <b>"Guide 1 - Intro"</b> introduces the concept of semantic search using hardcoded strings.
+
+    * Code: <b>Code-Only.py </b>
     * MD file: Example-of-Semantic-Search-W-VectorDBs.md
     * Jupyter Notebook: Intro-Semantic-Search-ChromaDB.ipynb
-    * Code: Code-Only.py
+
 
 <br />
 
 * The second folder <b>"Guide 2 - Using text files"</b> extends this by demonstrating how to read and embed actual text files from a folder, simulating a real-world application.
+
+    * Code: <b>Code-Only.py </b>
     * MD file: Example-of-Sem-Search-W-VectorDBs-W-Files.md
     * Jupyter Notebook: Semantic-Search-ChromaDB_w_Files.ipynb
-    * Code: Code-Only.py
     * text files located in `inputText/` folder
 
 ## Information
